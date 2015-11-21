@@ -3586,6 +3586,13 @@ public final class Settings {
         };
 
         /**
+         * Change volume up and down handlign based on rotation
+         * @hide
+         */
+        public static final String SWAP_VOLUME_BUTTONS = "swap_volume_buttons";
+
+
+        /**
          * Whether to wake the screen with the volume keys, the value is boolean.
          * @hide
          */
