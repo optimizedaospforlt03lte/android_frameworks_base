@@ -4440,4 +4440,21 @@
     <string name="permlab_preventpower">override power key</string>
     <!-- Description of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
     <string name="permdesc_preventpower">Allows an app to override the power key.</string>
+    
+        <!-- Title of dialog to confirm restarting. -->
+    <string name="reboot_title">Restart</string>
+    <!-- Button to reboot the phone in restart menu -->
+    <string name="reboot_reboot">Restart</string>
+    <!-- Button to reboot the phone into recovery in restart menu-->
+    <string name="reboot_recovery">Recovery</string>
+    <!-- Button to reboot the phone into bootloader in restart menu -->
+    <string name="reboot_bootloader">Bootloader</string>
+    <!-- Button to soft reboot the device in restart menu -->
+    <string name="reboot_soft">Soft restart</string>
+    <!-- Reboot Confirmation Dialog. -->
+    <string name="reboot_confirm" product="tablet">Your tablet will restart.</string>
+    <string name="reboot_confirm" product="default">Your phone will restart.</string>
+    <!-- Reboot Progress Dialog. This is shown if the user chooses to restart the phone. -->
+    <string name="reboot_progress">Restarting\u2026</string>
+    
 </resources>
