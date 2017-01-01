@@ -2572,7 +2572,4 @@
 
     <!-- An array of packages for which notifications cannot be blocked. -->
     <string-array translatable="false" name="config_nonBlockableNotificationPackages" />
-    
-        <!-- Is Advanced Reboot enabled? -->
-    <bool name="config_advanced_reboot">true</bool>
 </resources>
