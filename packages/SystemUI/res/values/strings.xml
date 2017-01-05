@@ -1672,4 +1672,8 @@
     <!-- Label that replaces other notification controls when the notification is from the system
          and cannot be silenced (see @string/show_silently) or blocked (see @string/block) -->
     <string name="cant_silence_or_block">Notifications can\'t be silenced or blocked</string>
+    
+    <!-- Expanded Desktop QS Tile -->
+    <string name="quick_settings_expanded_desktop">Expanded</string>
+    <string name="quick_settings_expanded_desktop_off">Normal</string>    
 </resources>
