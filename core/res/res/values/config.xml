@@ -2577,7 +2577,4 @@
     <integer name="config_buttonBrightnessSettingDefault">255</integer>
     <integer name="config_keyboardBrightnessSettingDefault">0</integer>
     <bool name="config_deviceHasVariableButtonBrightness">true</bool>
-    
-    <!-- kill app long press back -->
-    <integer name="config_backKillTimeout">3000</integer>
 </resources>
