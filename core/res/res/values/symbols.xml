@@ -2717,13 +2717,6 @@
   <java-symbol type="integer" name="time_picker_mode" />
   <java-symbol type="integer" name="date_picker_mode" />
   
-  <!-- Advanced Power menu w/ restart options -->
-  <java-symbol type="array" name="shutdown_reboot_options" />
-  <java-symbol type="array" name="shutdown_reboot_actions" />
-  <java-symbol type="string" name="reboot_title" />
-  <java-symbol type="string" name="reboot_confirm" />
-  <java-symbol type="string" name="reboot_progress" />
-  
   <!-- Hardware button brightness -->
   <java-symbol type="integer" name="config_buttonBrightnessSettingDefault" />
   <java-symbol type="integer" name="config_keyboardBrightnessSettingDefault" />
